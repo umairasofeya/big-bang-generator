@@ -9,7 +9,7 @@ Have Node.js installed
 
 2. Clone the repository:
 ```bash
-git clone <github-repo-link> umaira-bigbang
+git clone https://github.com/umairasofeya/big-bang-generator umaira-bigbang
 ```
 3. Enter the project folder to access its contents.
 ```bash
