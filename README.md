@@ -21,5 +21,8 @@ cd umaira-bigbang
 node bigbang.js
 ```
 
-5. The file output.json is generated in the project folder.
+5. To read the output.json file from the Terminal, enter:
+```bash
+cat output.json
+```
 
