@@ -7,13 +7,13 @@ Have Node.js installed
 
 1. Open the Terminal application on your device.
 
-2. Clone the repository and name the project folder (e.g umaira-bigbang):
+2. Clone the repository:
 ```bash
-git clone https://github.com/umairasofeya/big-bang-generator umaira-bigbang
+git clone https://github.com/umairasofeya/big-bang-generator
 ```
 3. Enter the project folder to access its contents.
 ```bash
-cd umaira-bigbang
+cd big-bang-generator
 ```
 
 4. Run the script using this command below. 
