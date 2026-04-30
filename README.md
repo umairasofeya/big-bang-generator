@@ -7,7 +7,7 @@ Have Node.js installed
 
 1. Open the Terminal application on your device.
 
-2. Clone the repository:
+2. Clone the repository and name the project folder e.g umaira-bigbang:
 ```bash
 git clone https://github.com/umairasofeya/big-bang-generator umaira-bigbang
 ```
